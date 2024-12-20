@@ -6,7 +6,7 @@
 - 🤔 I am currently looking for jobs related to Data Science/AI, but I am also open to other types of projects or opportunities
 - 📫 How to reach me: Rg3551@columbia.edu
 
-[![Linkedin Badge](https://www.linkedin.com/in/run-guo-808973329/)](https://www.linkedin.com/in/run-guo-808973329/)
+[![Linkedin Badge](https://img.shields.io/badge/-Run%20Guo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/run-guo-808973329/)](https://www.linkedin.com/in/run-guo-808973329/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Auu01)
 
 <p align="center">
